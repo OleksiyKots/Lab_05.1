@@ -15,4 +15,5 @@ int main()
 double h(const double x, const double y) // визначення
 {
 	return (pow(x, 2) + sin(x*y) + pow(y, 2)) /  (1 + pow(x, 2) + pow(y, 2));
-}
+}
+////////////////////////////////////////////////////////////////////
